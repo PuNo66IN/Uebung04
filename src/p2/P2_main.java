@@ -6,7 +6,7 @@ public class P2_main {
 	// Variabledeklaration
 		int a=3,b=5,c=6;
 		int intResult_a,intResult_b,intResult_c;
-		double x=1.5,y=2.3;
+		double x=1.5,y=2.678;
 		double doubleResult_d,doubleResult_e,doubleResult_f;
 		
 		//Rechnung (a)

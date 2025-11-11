@@ -34,7 +34,7 @@ public class H2_main {
 //            c = true;
 //        }
 
-        // Ausgabe
+        // Ausgabe der Werte
         System.out.println("input = " + input);
         System.out.println("x = " + x);
         System.out.println("y = " + y);
